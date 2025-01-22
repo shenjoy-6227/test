@@ -7,3 +7,4 @@ def add(*args):
     return result
 
 print(add(1,2,3.1))
+print(add(1,2,3.1, 'a'))
